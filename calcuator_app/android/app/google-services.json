@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "513916063721",
+    "project_id": "projet-flutter-89eaf",
+    "storage_bucket": "projet-flutter-89eaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513916063721:android:cfb625a97894fa3aae4578",
+        "android_client_info": {
+          "package_name": "com.example.calcuator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoYMiZSYrPl-jGzpw2itYjDwxrj_X8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513916063721:android:7a1d8e0e14eec9feae4578",
+        "android_client_info": {
+          "package_name": "com.example.projet_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjjGgQ45O-czhTh-8zfb9gOR1rqYHpta4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
